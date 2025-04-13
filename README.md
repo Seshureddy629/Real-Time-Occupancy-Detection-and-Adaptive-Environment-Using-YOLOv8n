@@ -1,1 +1,1 @@
-# PROJECTS
+This project uses YOLOv8 for real-time human detection in specific Areas of Interest (AOI) and automatically controls lights and fans using a Raspberry Pi. OpenCV is integrated for enhanced accuracy, optimizing energy usage in offices, homes, and public spaces.
